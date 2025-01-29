@@ -1215,3 +1215,28 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
+.lang {
+  padding: 50px;
+  box-shadow: 0px 0 30px rgba(0, 0, 0, 0.1);
+}
+.lang h4 {
+  color: var(--accent-color);
+}
+
+.lang ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.lang li {
+  margin-bottom: 0.5rem;
+}
+
+.lang strong {
+  color: var(--accent-color);
+  font-weight: bold;
+}
+section {
+  padding: 50px;
+  box-shadow: 0px 0 30px rgba(0, 0, 0, 0.1);
+}
